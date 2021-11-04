@@ -209,9 +209,9 @@ nav ul li a {
     max-width: 900px;
 }
 
-.map {
-    width: 400px;
-    height: 400px;
+.family {
+    width: 50px;
+    height: 50px;
     margin-left: 10px;
 }
 
@@ -308,15 +308,16 @@ footer ul li {
         box-sizing: border-box;
     }
 
-    .map {
+    .family {
         width: 90%;
         height: 300px;
         margin: 0 auto 60px;
         text-align: center;
     }
 
-    .map img {
+    .family img {
         height: 100%;
+        width: 50%;
     }
 
     .contact-form {
